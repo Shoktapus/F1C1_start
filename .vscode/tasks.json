@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "/Users/Shoktaputer/Documents/F1C1_start",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
